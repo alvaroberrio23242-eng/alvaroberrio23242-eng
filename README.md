@@ -1,4 +1,4 @@
-# Hola 👋 Soy Álvaro Berrío
+# Hola 👋 Soy Benjamin Berrío
 
 🎓 Estudiante de Ingeniería de Sistemas
 
