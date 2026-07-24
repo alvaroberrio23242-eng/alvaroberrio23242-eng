@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola 👋 Soy Álvaro Berrío
 
-<!--
-**alvaroberrio23242-eng/alvaroberrio23242-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas
 
-Here are some ideas to get you started:
+💻 Apasionado por el desarrollo de software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente aprendiendo
+
+- Python
+- Pygame
+- Git y GitHub
+- SQL
+- Desarrollo Backend
+
+## Proyectos
+
+🎮 Aventura Antioqueña
+Juego educativo desarrollado con Python y Pygame.
+
+🐱 Proyecto Gatico
+Aplicación desarrollada para fortalecer lógica de programación.
+
+## Objetivo
+
+Busco seguir creciendo como desarrollador y construir proyectos que resuelvan problemas reales.
+
+## Tecnologías
+
+Python • Git • GitHub • Pygame • SQL
