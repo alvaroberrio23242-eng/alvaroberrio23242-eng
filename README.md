@@ -1,42 +1,33 @@
-# # 👋 ¡Hola! Soy Benjamin Berrío
+# Hi there, I'm Alvaro Benjamin Berrio 👋
 
-🎓 **Estudiante de Ingeniería de Sistemas** | 💻 **Backend & Web Developer**
-
-Apasionado por crear software funcional, aplicaciones interactivas y resolver problemas reales con código.
+Software Developer focused on building engaging web applications, interactive games, and efficient software solutions.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🚀 Featured Projects
+
+- 🕺 **[SalsaQuest](https://github.com/alvaroberrio23242-eng/salsaquest)**
+  *An interactive web application designed for tourists to discover and learn salsa culture through games and storytelling.*
+  `Python` · `Flask` · `Web Development`
+
+- 🎮 **[Aventura Antioqueña](https://github.com/alvaroberrio23242-eng/aventuraAntioque-a)**
+  *An educational 2D game built with Pygame featuring Antioquia's history, NPCs, and interactive mechanics.*
+  `Python` · `Pygame` · `Game Dev`
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Red?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🚀 Proyectos Destacados
+### 📫 Let's Connect!
 
-* **💃 SalsaQuest**
-  Aplicación web interactiva que explora la historia de la salsa a través de una línea de tiempo dinámico y un módulo de trivias.
-  * **Stack:** Python, Flask, SQLAlchemy, JavaScript Vanilla, Bootstrap.
-
-* **🎮 Aventura Antioqueña**
-  Juego educativo enfocado en aprendizaje interactivo desarrollado con Python y Pygame.
-
-* **🐱 Proyecto Gatico**
-  Aplicación diseñada para fortalecer lógica de programación y resolución de problemas.
-
----
-
-### 🌱 Actualmente profundizando en:
-* Desarrollo Web Backend con Python & Flask
-* Modelado y optimización de Bases de Datos SQL
-* Git & GitHub Best Practices
-
----
-
-### 🎯 Objetivo
-Seguir creciendo como desarrollador de software, colaborando en proyectos desafiantes y construyendo herramientas de impacto.
+- 🌐 GitHub: [@alvaroberrio23242-eng](https://github.com/alvaroberrio23242-eng)
