@@ -4,15 +4,15 @@ Software Developer focused on building engaging web applications, interactive ga
 
 ---
 
--🚀 Featured Projects
+## 🚀 Featured Projects
 
-* 🕺 **SalsaQuest:** An interactive web application designed for tourists to discover and learn salsa culture through games and storytelling.
+* 🕺 **SalsaQuest:** An interactive web application designed for tourists to discover and learn salsa culture through games and storytelling.  
   `Python` · `Flask` · `Web Development`
 
-* 🕵️ **OSINT_Search_Pro:** Web-based OSINT search engine built with Python and Flask.
+* 🕵️ **OSINT_Search_Pro:** Web-based OSINT search engine built with Python and Flask.  
   `Python` · `Flask` · `HTML` · `OSINT`
 
-* 📦 **EduPack-Builder:** Educational suite in Python designed to generate educational packages and automatically download multimedia resources with open licenses.
+* 📦 **EduPack-Builder:** Educational suite in Python designed to generate educational packages and automatically download multimedia resources with open licenses.  
   `Python` · `Automation` · `Education`
 
 ---
@@ -31,4 +31,5 @@ Software Developer focused on building engaging web applications, interactive ga
 
 ### 📫 Let's Connect!
 
-- 🌐 GitHub: [@alvaroberrio23242-eng](https://github.com/alvaroberrio23242-eng)
+* 📧 **Email:** [berriobenjamin16@gmail.com](mailto:berriobenjamin16@gmail.com)
+* 🌐 **GitHub:** [@alvaroberrio23242-eng](https://github.com/alvaroberrio23242-eng)
