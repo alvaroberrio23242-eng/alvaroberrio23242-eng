@@ -4,15 +4,16 @@ Software Developer focused on building engaging web applications, interactive ga
 
 ---
 
-### 🚀 Featured Projects
+-🚀 Featured Projects
 
-- 🕺 **[SalsaQuest](https://github.com/alvaroberrio23242-eng/salsaquest)**
-  *An interactive web application designed for tourists to discover and learn salsa culture through games and storytelling.*
+* 🕺 **SalsaQuest:** An interactive web application designed for tourists to discover and learn salsa culture through games and storytelling.
   `Python` · `Flask` · `Web Development`
 
-- 🎮 **[Aventura Antioqueña](https://github.com/alvaroberrio23242-eng/aventuraAntioque-a)**
-  *An educational 2D game built with Pygame featuring Antioquia's history, NPCs, and interactive mechanics.*
-  `Python` · `Pygame` · `Game Dev`
+* 🕵️ **OSINT_Search_Pro:** Web-based OSINT search engine built with Python and Flask.
+  `Python` · `Flask` · `HTML` · `OSINT`
+
+* 📦 **EduPack-Builder:** Educational suite in Python designed to generate educational packages and automatically download multimedia resources with open licenses.
+  `Python` · `Automation` · `Education`
 
 ---
 
