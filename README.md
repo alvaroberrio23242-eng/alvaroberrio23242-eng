@@ -7,7 +7,8 @@ Software Developer focused on building engaging web applications, interactive ga
 ## 🚀 Featured Projects
 
 * 🕺 **SalsaQuest:** An interactive web application designed for tourists to discover and learn salsa culture through games and storytelling.  
-  `Python` · `Flask` · `Web Development`
+  [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-onrender.com-00C7B7?style=flat-square)](https://salsaquest-1.onrender.com/)  
+  `Python` · `Flask` · `Web Development` · [🌐 Visit Website](https://salsaquest-1.onrender.com/)
 
 * 🕵️ **OSINT_Search_Pro:** Web-based OSINT search engine built with Python and Flask.  
   `Python` · `Flask` · `HTML` · `OSINT`
