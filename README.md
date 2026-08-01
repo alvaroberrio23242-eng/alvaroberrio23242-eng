@@ -1,6 +1,6 @@
 # Hi there, I'm Alvaro Benjamin Berrio 👋
 
-Software Developer focused on building engaging web applications, interactive games, and efficient software solutions.
+student Software Developer focused on building engaging web applications, interactive games, and efficient software solutions.
 
 ---
 
