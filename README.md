@@ -1,159 +1,195 @@
-# Hi there! 👋 I'm Álvaro Benjamín Berrío Cabello
+<!-- ========================================================= -->
+<!--                     HEADER / BANNER                        -->
+<!-- ========================================================= -->
 
-### Software Development Student | Web Application Developer | Python & Flask Enthusiast
+<p align="center">
+  <img src="https://i.imgur.com/TU_BANNER.png" alt="Banner" width="100%">
+</p>
 
-I'm a Software Development student passionate about building web applications, educational platforms, and interactive digital experiences.
+<h1 align="center">Hi 👋 I'm Álvaro Benjamín Berrío Cabello</h1>
 
-My goal is to transform ideas into functional, user-friendly software with clean architecture and modern interfaces.
+<h3 align="center">
+Software Development Student • Full-Stack Web Developer • Python & Flask Enthusiast
+</h3>
+
+<p align="center">
+Building modern web applications, educational platforms, and intelligent software solutions.
+</p>
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio Website**
-https://portfolio-hub-90zb.onrender.com/
+> **Explore my live portfolio**
 
-Explore all my projects, live demos, and technical documentation.
+🔗 https://portfolio-hub-90zb.onrender.com/
 
----
-
-## 🚀 Featured Projects
-
-### 🎵 SalsaQuest
-
-Interactive web application that introduces tourists to salsa culture through storytelling, quizzes, maps, and multimedia content.
-
-**Live Demo**
-
-https://salsaquest-1.onrender.com/
-
-Repository
-
-https://github.com/alvaroberrio23242-eng/salsaquest
+The portfolio includes live demos, project documentation, source code, and development updates.
 
 ---
 
-### 🔎 OSINT Search Pro
+## 💼 Currently Available
 
-Open Source Intelligence platform designed to search people, domains, emails, IP addresses, and public information using multiple search engines.
+✔ Software Development Internships
 
-**Live Demo**
+✔ Freelance Web Development
 
-https://osint-search-pro.onrender.com/
+✔ Open Source Collaboration
 
-Repository
-
-https://github.com/alvaroberrio23242-eng/OSINT_Search_Pro
+✔ AI & Educational Software Projects
 
 ---
 
-### 📚 EduPack Builder
+# 🚀 Featured Projects
 
-Educational content generation platform capable of creating complete learning packages including guides, quizzes, repositories, videos, images, and open educational resources.
-
-Repository
-
-https://github.com/alvaroberrio23242-eng/EduPack-Builder
-
----
-
-### 🎸 RockQuest
-
-Interactive educational platform about Rock music history, iconic bands, artists, albums, and cultural evolution.
-
-https://rockquest.onrender.com/
-
-**Live Demo**
-https://github.com/alvaroberrio23242-eng/rockquest
-
----
-
-### 🏞️ Aventura Antioqueña
-
-Educational adventure game developed in Python using Pygame featuring Colombian culture, quizzes, and interactive gameplay.
-
-Repository
-
-https://github.com/alvaroberrio23242-eng/aventuraAntioque-a
-
----
-
-# 🛠️ Technologies
-
-### Languages
-
-- Python
-- JavaScript
-- HTML5
-- CSS3
-- SQL
-
-### Backend
-
-- Flask
-- SQLAlchemy
-- SQLite
-
-### Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Render
-- Figma
+| Project | Description | Live Demo |
+|----------|-------------|-----------|
+| 🔎 **OSINT Search Pro** | Modern Open Source Intelligence platform for people, domains, IPs and public information. | https://osint-search-pro.onrender.com/ |
+| 🎵 **SalsaQuest** | Interactive platform for learning salsa culture through storytelling and multimedia experiences. | https://salsaquest-1.onrender.com/ |
+| 🎸 **RockQuest** | Educational web application about Rock history, legendary artists and iconic albums. | https://rockquest.onrender.com/ |
+| 📚 **EduPack Builder** | AI-assisted platform that creates educational packages with guides, quizzes and multimedia resources. | 🚧 In Development |
+| 🏞️ **Aventura Antioqueña** | Educational adventure game developed with Python and Pygame. | 🚧 In Development |
 
 ---
 
 # 🌍 Live Applications
 
-Several of my projects are deployed online on Render.
+The following applications are currently available online.
 
-You can test them without installing anything locally.
-
-Portfolio
-
-https://portfolio-hub-90zb.onrender.com/
-
----
-
-# 📈 Currently Working On
-
-- Improving OSINT Search Pro
-- Developing RockQuest
-- Expanding SalsaQuest
-- Building AI-powered educational tools
-- Creating a centralized portfolio platform
+| Application | Status |
+|------------|--------|
+| 🌐 Portfolio Hub | ✅ Online |
+| 🔎 OSINT Search Pro | ✅ Online |
+| 🎵 SalsaQuest | ✅ Online |
+| 🎸 RockQuest | ✅ Online |
+| 📚 EduPack Builder | 🚧 Coming Soon |
 
 ---
 
-# 🎯 Interests
+# 🛠️ Tech Stack
 
-- Web Development
-- Software Architecture
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+---
+
+### Backend
+
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
+
+---
+
+### Frontend
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+---
+
+### Database
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alvaroberrio23242-eng&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroberrio23242-eng&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=alvaroberrio23242-eng&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚧 Current Development Roadmap
+
+```text
+███████████░░░░░  OSINT Search Pro v2
+
+█████████░░░░░░░  RockQuest
+
+████████░░░░░░░░  EduPack Builder
+
+██████░░░░░░░░░░  AI Educational Tools
+
+█████░░░░░░░░░░░  Portfolio Hub
+```
+
+---
+
+# 🎯 Areas of Interest
+
+- Full-Stack Web Development
 - Artificial Intelligence
 - Open Source Intelligence (OSINT)
 - Educational Technology
+- Software Architecture
 - UI / UX Design
+- Automation
+- Open Source Projects
 
 ---
 
-# 📫 Contact
+# 📈 Development Workflow
 
-GitHub
+```text
+Research
+    │
+    ▼
+Planning
+    │
+    ▼
+UI / UX Design
+    │
+    ▼
+Development
+    │
+    ▼
+Testing
+    │
+    ▼
+Deployment (Render)
+    │
+    ▼
+Continuous Improvement
+```
 
-https://github.com/alvaroberrio23242-eng
+---
 
-Portfolio
+# 🤝 Let's Build Something Together
+
+I'm always interested in collaborating on innovative software projects, educational technologies, and open-source initiatives.
+
+📧 **Email**
+
+**berriobenjamin16@gmail.com**
+
+🌐 **Portfolio**
 
 https://portfolio-hub-90zb.onrender.com/
 
-Email
-
-berriobenjamin16@gmail.com
+⭐ Thanks for visiting my profile!
