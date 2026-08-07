@@ -1,27 +1,159 @@
-# ¡Hola! 👋 Soy Álvaro Berrio
+# Hi there! 👋 I'm Álvaro Benjamín Berrío Cabello
 
-Desarrollo aplicaciones web y herramientas educativas — de la idea al código funcional, con foco en interfaces claras y proyectos que resuelven un problema real.
+### Software Development Student | Web Application Developer | Python & Flask Enthusiast
 
-## 🚀 Proyectos
+I'm a Software Development student passionate about building web applications, educational platforms, and interactive digital experiences.
 
-- **[EduPack Builder](https://github.com/alvaroberrio23242-eng/EduPack-Builder)** — App Flask que arma paquetes educativos completos (guía, trivia, imágenes, videos, repositorios y artículos, todo con licencia libre) sobre cualquier tema.
-- **SalsaQuest** — App web interactiva para turistas en lugares de cultura salsera, con storytelling y menú interactivo.
-- **RockQuest** — App web sobre historia del rock, mismo estilo visual que SalsaQuest.
-- **Aventura Antioqueña** — Juego educativo en Python (pygame) con preguntas de opción múltiple.
-
-## 🛠️ Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-## 📌 En qué estoy ahora
-
-Terminando EduPack Builder: llevándolo de scripts de consola a una app web completa y preparándolo para desplegar en producción.
+My goal is to transform ideas into functional, user-friendly software with clean architecture and modern interfaces.
 
 ---
 
-📫 ¿Quieres ver algo en detalle? Entra a cualquiera de los repos de arriba.
+## 🌐 Portfolio
+
+🔗 **Portfolio Website**
+
+https://YOUR-PORTFOLIO.onrender.com
+
+Explore all my projects, live demos, and technical documentation.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 SalsaQuest
+
+Interactive web application that introduces tourists to salsa culture through storytelling, quizzes, maps, and multimedia content.
+
+**Live Demo**
+
+https://YOUR-SALSAQUEST.onrender.com
+
+Repository
+
+https://github.com/alvaroberrio23242-eng/salsaquest
+
+---
+
+### 🔎 OSINT Search Pro
+
+Open Source Intelligence platform designed to search people, domains, emails, IP addresses, and public information using multiple search engines.
+
+**Live Demo**
+
+https://YOUR-OSINT.onrender.com
+
+Repository
+
+https://github.com/alvaroberrio23242-eng/OSINT_Search_Pro
+
+---
+
+### 📚 EduPack Builder
+
+Educational content generation platform capable of creating complete learning packages including guides, quizzes, repositories, videos, images, and open educational resources.
+
+Repository
+
+https://github.com/alvaroberrio23242-eng/EduPack-Builder
+
+---
+
+### 🎸 RockQuest
+
+Interactive educational platform about Rock music history, iconic bands, artists, albums, and cultural evolution.
+
+Repository
+
+https://github.com/alvaroberrio23242-eng/rockquest
+
+---
+
+### 🏞️ Aventura Antioqueña
+
+Educational adventure game developed in Python using Pygame featuring Colombian culture, quizzes, and interactive gameplay.
+
+Repository
+
+https://github.com/alvaroberrio23242-eng/aventuraAntioque-a
+
+---
+
+# 🛠️ Technologies
+
+### Languages
+
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+### Backend
+
+- Flask
+- SQLAlchemy
+- SQLite
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Render
+- Figma
+
+---
+
+# 🌍 Live Applications
+
+Several of my projects are deployed online on Render.
+
+You can test them without installing anything locally.
+
+Portfolio
+
+https://YOUR-PORTFOLIO.onrender.com
+
+---
+
+# 📈 Currently Working On
+
+- Improving OSINT Search Pro
+- Developing RockQuest
+- Expanding SalsaQuest
+- Building AI-powered educational tools
+- Creating a centralized portfolio platform
+
+---
+
+# 🎯 Interests
+
+- Web Development
+- Software Architecture
+- Artificial Intelligence
+- Open Source Intelligence (OSINT)
+- Educational Technology
+- UI / UX Design
+
+---
+
+# 📫 Contact
+
+GitHub
+
+https://github.com/alvaroberrio23242-eng
+
+Portfolio
+
+https://YOUR-PORTFOLIO.onrender.com
+
+Email
+
+YOUR_EMAIL
