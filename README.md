@@ -11,8 +11,7 @@ My goal is to transform ideas into functional, user-friendly software with clean
 ## 🌐 Portfolio
 
 🔗 **Portfolio Website**
-
-https://YOUR-PORTFOLIO.onrender.com
+https://portfolio-hub-90zb.onrender.com/
 
 Explore all my projects, live demos, and technical documentation.
 
@@ -26,7 +25,7 @@ Interactive web application that introduces tourists to salsa culture through st
 
 **Live Demo**
 
-https://YOUR-SALSAQUEST.onrender.com
+https://salsaquest-1.onrender.com/
 
 Repository
 
