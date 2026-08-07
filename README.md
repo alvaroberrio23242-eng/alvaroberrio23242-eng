@@ -39,7 +39,7 @@ Open Source Intelligence platform designed to search people, domains, emails, IP
 
 **Live Demo**
 
-https://YOUR-OSINT.onrender.com
+https://osint-search-pro.onrender.com/
 
 Repository
 
@@ -61,8 +61,9 @@ https://github.com/alvaroberrio23242-eng/EduPack-Builder
 
 Interactive educational platform about Rock music history, iconic bands, artists, albums, and cultural evolution.
 
-Repository
+https://rockquest.onrender.com/
 
+**Live Demo**
 https://github.com/alvaroberrio23242-eng/rockquest
 
 ---
@@ -151,8 +152,8 @@ https://github.com/alvaroberrio23242-eng
 
 Portfolio
 
-https://YOUR-PORTFOLIO.onrender.com
+https://portfolio-hub-90zb.onrender.com/
 
 Email
 
-YOUR_EMAIL
+berriobenjamin16@gmail.com
