@@ -1,4 +1,3 @@
-
 <!-- ========================================================= -->
 <!--                     HEADER / BANNER                        -->
 <!-- ========================================================= -->
@@ -49,7 +48,7 @@ The portfolio includes live demos, project documentation, source code, and devel
 | 🎵 **SalsaQuest** | Interactive platform for learning salsa culture through storytelling and multimedia experiences. | https://salsaquest-1.onrender.com/ |
 | 🎸 **RockQuest** | Educational web application about Rock history, legendary artists and iconic albums. | https://rockquest.onrender.com/ |
 | 📚 **EduPack Builder** | AI-assisted platform that creates educational packages with guides, quizzes and multimedia resources. | 🚧 In Development |
-| 🏞️ **Aventura Antioqueña** | Educational adventure game developed with Python and Pygame. | 🚧 In Development |
+| 🏞️ **Aventura Antioqueña** | Educational adventure game developed with Python and Pygame. | https://alvaroberrio23242-eng.github.io/aventura-antioquena-web/ |
 
 ---
 
@@ -165,32 +164,3 @@ Planning
     │
     ▼
 UI / UX Design
-    │
-    ▼
-Development
-    │
-    ▼
-Testing
-    │
-    ▼
-Deployment (Render)
-    │
-    ▼
-Continuous Improvement
-```
-
----
-
-# 🤝 Let's Build Something Together
-
-I'm always interested in collaborating on innovative software projects, educational technologies, and open-source initiatives.
-
-📧 **Email**
-
-**berriobenjamin16@gmail.com**
-
-🌐 **Portfolio**
-
-https://alvaroberrio23242-eng.github.io/portfolio-hub/
-
-⭐ Thanks for visiting my profile!
