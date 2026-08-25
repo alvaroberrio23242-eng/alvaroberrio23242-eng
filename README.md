@@ -2,143 +2,65 @@
 
 # Hi 👋 I'm Álvaro Benjamín Berrío Cabello
 
-### Software Development Student • Full-Stack Web Developer • Python & Flask Enthusiast
+### Software Developer · Systems Engineering Student · Full-Stack Builder
 
-Building modern web applications, educational platforms, and intelligent software solutions.
+I design and build web applications, educational platforms, interactive experiences,
+developer tools and AI-assisted software systems.
 
----
-
-## 🌐 Portfolio
-
-> **Explore my live portfolio**
-
-🔗 https://alvaroberrio23242-eng.github.io/portfolio-hub/
-
-The portfolio includes live demos, project documentation, source code, and development updates.
+My current focus is turning independent projects into a **coherent software ecosystem**
+with reusable architecture, automation, security, documentation and continuous development.
 
 ---
 
-## 💼 Currently Available
+## 🚀 What I'm Building
 
-✔ Software Development Internships
+I'm developing a growing ecosystem around four main areas:
 
-✔ Freelance Web Development
+- 🌐 **Web Applications**
+- 🤖 **AI & Developer Tools**
+- 🎓 **Educational Technology**
+- 🎮 **Interactive & Cultural Experiences**
 
-✔ Open Source Collaboration
+My projects are not isolated experiments.
 
-✔ AI & Educational Software Projects
+They are becoming part of a structured development ecosystem focused on:
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Live Demo |
-| --- | --- | --- |
-| 🔎 **OSINT Search Pro** | Modern Open Source Intelligence platform for people, domains, IPs and public information. | https://osint-search-pro.onrender.com/ |
-| 🎵 **SalsaQuest** | Interactive platform for learning salsa culture through storytelling and multimedia experiences. | https://salsaquest-1.onrender.com/ |
-| 🎸 **RockQuest** | Educational web application about Rock history, legendary artists and iconic albums. | https://rockquest.onrender.com/ |
-| 📚 **EduPack Builder** | AI-assisted platform that creates educational packages with guides, quizzes and multimedia resources. | 🚧 In Development |
-| 🏞️ **Aventura Antioqueña** | Educational adventure game developed with Python and Pygame. | https://alvaroberrio23242-eng.github.io/aventura-antioquena-web/ |
+**Architecture → Development → Quality → Security → Automation → Deployment**
 
 ---
 
-# 🌍 Live Applications
+# 🧠 Berrío AI Platform
 
-The following applications are currently available online.
+> **My development control plane for managing and evolving my software ecosystem.**
 
-| Application | Status |
-| --- | --- |
-| 🌐 Portfolio Hub | ✅ Online |
-| 🔎 OSINT Search Pro | ✅ Online |
-| 🎵 SalsaQuest | ✅ Online |
-| 🎸 RockQuest | ✅ Online |
-| 📚 EduPack Builder | 🚧 Coming Soon |
+The **Berrío AI Platform** is being designed as the central engineering layer
+connecting architecture, documentation, AI agents, project governance,
+security policies and future automation.
 
----
+### Current capabilities
 
-# 🛠️ Tech Stack
+- 🧠 AI-assisted development architecture
+- 🤖 Specialized development agents
+- 🔐 Security and credential policies
+- 📋 Project registry
+- 🏗️ Architecture documentation
+- ✅ Quality policies
+- 📚 Engineering documentation
+- 🔄 Multi-project development governance
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-
----
-
-### Backend
-
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
-
----
-
-### Frontend
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
----
-
-### Database
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-
----
-
-# 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=alvaroberrio23242-eng&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroberrio23242-eng&layout=compact&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=alvaroberrio23242-eng&theme=tokyonight)
-
----
-
-# 🚧 Current Development Roadmap
+### Architecture
 
 ```text
-███████████░░░░░  OSINT Search Pro v2
-█████████░░░░░░░  RockQuest
-████████░░░░░░░░  EduPack Builder
-██████░░░░░░░░░░  AI Educational Tools
-█████░░░░░░░░░░░  Portfolio Hub
-```
-
----
-
-# 🎯 Areas of Interest
-
-- Full-Stack Web Development
-- Artificial Intelligence
-- Open Source Intelligence (OSINT)
-- Educational Technology
-- Software Architecture
-- UI / UX Design
-- Automation
-- Open Source Projects
-
----
-
-# 📈 Development Workflow
-
-```text
-Research
-    │
-    ▼
-Planning
-    │
-    ▼
-UI / UX Design
-```
+                    BERRÍO AI PLATFORM
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+       Control Plane               Project Ecosystem
+             │                           │
+      ┌──────┼──────┐          ┌─────────┼─────────┐
+      │      │      │          │         │         │
+   Agents  Rules  Docs      Web Apps   Games    Tools
+      │      │      │          │         │         │
+      └──────┴──────┴──────────┴─────────┴─────────┘
+                           │
+                     GitHub Ecosystem
