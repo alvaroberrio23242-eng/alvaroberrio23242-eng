@@ -11,7 +11,7 @@ Construyo aplicaciones web, agentes de IA y sistemas de automatización — y lo
 
 ---
 
-### Caso destacado: Son Havana
+### Caso destacado: SalsaQuest
 
 Diseñé y construí la presencia digital de **Son Havana**, un bar de salsa y son cubano en Laureles, Medellín — cliente real, no un ejercicio. Incluye optimización de rendimiento (reducción de 77% en peso de video, de 17MB a 1.6MB) y una experiencia narrativa dentro de [SalsaQuest](https://portfolio-hub-app.onrender.com), mi plataforma de storytelling sobre cultura salsera.
 
