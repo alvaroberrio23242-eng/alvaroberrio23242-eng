@@ -1,66 +1,45 @@
-![Banner](./banner.svg)
 
-# Hi 👋 I'm Álvaro Benjamín Berrío Cabello
+### `$ whoami`
 
-### Software Developer · Systems Engineering Student · Full-Stack Builder
+# Álvaro Benjamín Berrío Cabello
 
-I design and build web applications, educational platforms, interactive experiences,
-developer tools and AI-assisted software systems.
+**Software Developer · Estudiante de Ingeniería de Sistemas · Full-Stack Builder**
 
-My current focus is turning independent projects into a **coherent software ecosystem**
-with reusable architecture, automation, security, documentation and continuous development.
+Construyo aplicaciones web, agentes de IA y sistemas de automatización — y los pruebo con negocios reales, no solo con proyectos de práctica.
 
----
-
-## 🚀 What I'm Building
-
-I'm developing a growing ecosystem around four main areas:
-
-- 🌐 **Web Applications**
-- 🤖 **AI & Developer Tools**
-- 🎓 **Educational Technology**
-- 🎮 **Interactive & Cultural Experiences**
-
-My projects are not isolated experiments.
-
-They are becoming part of a structured development ecosystem focused on:
-
-**Architecture → Development → Quality → Security → Automation → Deployment**
+**[→ Ver mi portafolio en vivo](https://portfolio-hub-app.onrender.com)**
 
 ---
 
-# 🧠 Berrío AI Platform
+### Caso destacado: Son Havana
 
-> **My development control plane for managing and evolving my software ecosystem.**
+Diseñé y construí la presencia digital de **Son Havana**, un bar de salsa y son cubano en Laureles, Medellín — cliente real, no un ejercicio. Incluye optimización de rendimiento (reducción de 77% en peso de video, de 17MB a 1.6MB) y una experiencia narrativa dentro de [SalsaQuest](https://portfolio-hub-app.onrender.com), mi plataforma de storytelling sobre cultura salsera.
 
-The **Berrío AI Platform** is being designed as the central engineering layer
-connecting architecture, documentation, AI agents, project governance,
-security policies and future automation.
+---
 
-### Current capabilities
+### Lo que construyo
 
-- 🧠 AI-assisted development architecture
-- 🤖 Specialized development agents
-- 🔐 Security and credential policies
-- 📋 Project registry
-- 🏗️ Architecture documentation
-- ✅ Quality policies
-- 📚 Engineering documentation
-- 🔄 Multi-project development governance
+- **Web Apps** — SalsaQuest, EduPack Builder, OSINT Search Pro
+- **Agentes de IA & Automatización** — flujos de curación y empaquetado de datos con IA
+- **Juegos educativos** — RockQuest, Aventura Antioqueña (trivia sobre cultura antioqueña)
+- **Casos de marca** — experiencias digitales de investigación y diseño para negocios reales
 
-### Architecture
+Todo vive dentro de un mismo ecosistema en [Portfolio Hub](https://portfolio-hub-app.onrender.com), no como proyectos aislados — con arquitectura, seguridad y despliegue pensados para producción, no solo para demo.
 
-```text
-                    BERRÍO AI PLATFORM
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-       Control Plane               Project Ecosystem
-             │                           │
-      ┌──────┼──────┐          ┌─────────┼─────────┐
-      │      │      │          │         │         │
-   Agents  Rules  Docs      Web Apps   Games    Tools
-      │      │      │          │         │         │
-      └──────┴──────┴──────────┴─────────┴─────────┘
-                           │
-                     GitHub Ecosystem
+---
+
+### Stack
+
+`Python` · `Flask` · `SQLAlchemy` · `SQLite` · `JavaScript` · `HTML/CSS` · `Pygame` · `Git/GitHub` · `Render`
+
+---
+
+### Enfoque actual
+
+Estudiante de Ingeniería de Sistemas (próximo semestre: 3°), construyendo mientras trabajo — aprendiendo desarrollo de software y automatización con IA de forma aplicada, no solo teórica.
+
+---
+
+### Contacto
+
+📩 [Escríbeme desde mi portafolio](https://portfolio-hub-app.onrender.com) · 💻 [github.com/alvaroberrio23242-eng](https://github.com/alvaroberrio23242-eng)
