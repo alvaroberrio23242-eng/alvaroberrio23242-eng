@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=F7B801&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Python+%26+Web;Building+AI-assisted+applications;Evidence+over+assumptions.;Security+by+design.;Currently+shipping+SalsaQuest+%F0%9F%8E%B5" alt="Typing SVG" />
 
-# 👋 Álvaro Berrío
+# Benjamin Berrío
 
 **Software Developer · AI & Web Applications · Product Engineering**
 
