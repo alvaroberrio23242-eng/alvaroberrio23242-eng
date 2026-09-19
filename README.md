@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=F7B801&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Python+%26+Web;Building+AI-assisted+applications;Evidence+over+assumptions.;Security+by+design.;Currently+shipping+SalsaQuest+%F0%9F%8E%B5" alt="Typing SVG" />
 
-# Benjamin Berrío
+# 👋 Álvaro Berrío
 
 **Software Developer · AI & Web Applications · Product Engineering**
 
@@ -120,6 +120,7 @@ en la cultura rock: `Culture + Music + Exploration + Technology`.
 
 `Python`
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=pythonanywhere&logoColor=white)](https://benjaminberrio16.pythonanywhere.com/)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alvaroberrio23242-eng/rockquest)
 
 ---
@@ -127,10 +128,14 @@ en la cultura rock: `Culture + Music + Exploration + Technology`.
 ### 🕹️ [Aventura Antioqueña](https://github.com/alvaroberrio23242-eng/aventura-antioquena-web)
 **Web game**
 
-Juego web construido con Pygame/HTML sobre cultura antioqueña.
+Juego educativo de trivia construido en Python y Pygame, compilado a WebAssembly
+para correr directo en el navegador. Tres niveles temáticos con preguntas sobre
+cultura antioqueña.
 
-`HTML` `Pygame` `Game Dev`
+`Python` `Pygame` `WebAssembly` `Game Dev`
 
+[![Jugar](https://img.shields.io/badge/Jugar-2ea44f?style=flat-square&logo=github&logoColor=white)](https://alvaroberrio23242-eng.github.io/aventura-antioquena-web/)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://alvaroberrio23242-eng.itch.io/aventura-antioquea)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alvaroberrio23242-eng/aventura-antioquena-web)
 
 ---
