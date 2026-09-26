@@ -16,7 +16,7 @@ enfocado en Python, desarrollo web, arquitectura de software e IA aplicada.
 📍 Medellín, Colombia · 🎓 Estudiante de Ingeniería de Sistemas
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaro_berrio23242@elpoli.edu.co)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hub-app.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hub-90zb.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvaroberrio23242-eng)
 
 </div>
