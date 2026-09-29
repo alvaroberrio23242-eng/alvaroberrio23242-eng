@@ -1,24 +1,26 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=F7B801&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Python+%26+Web;Building+AI-assisted+applications;Evidence+over+assumptions.;Security+by+design.;Currently+shipping+SalsaQuest+%F0%9F%8E%B5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=F7B801&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Python+%26+Web;Backend+%C2%B7+Flask+%C2%B7+SQL+%C2%B7+Git;Evidence+over+assumptions.;Security+by+design.;Currently+shipping+SalsaQuest+%F0%9F%8E%B5" alt="Typing SVG" />
 
-# Benjamin Berrío
+# Álvaro Benjamín Berrío
 
-**Software Developer · AI & Web Applications · Product Engineering**
+**Software Developer · Python & Web Applications**
 
-Construyo aplicaciones web, productos digitales y sistemas orientados a resolver
-problemas reales, combinando desarrollo de software, automatización, experiencia
-de usuario y tecnologías de inteligencia artificial.
+Construyo aplicaciones web con Python y Flask, con bases de datos, despliegue y
+documentación en GitHub. Me interesa resolver problemas reales combinando
+desarrollo de software, automatización y experiencia de usuario.
 
-Actualmente estudio **Ingeniería de Sistemas** y desarrollo un perfil profesional
-enfocado en Python, desarrollo web, arquitectura de software e IA aplicada.
+Estudio **Ingeniería de Sistemas** en el Politécnico Colombiano Jaime Isaza Cadavid
+y busco mi primera oportunidad profesional como aprendiz o desarrollador junior.
 
 📍 Medellín, Colombia · 🎓 Estudiante de Ingeniería de Sistemas
 
+![Open to work](https://img.shields.io/badge/Open_to_work-Aprendiz_%2F_Junior_%C2%B7_Remoto_o_Medell%C3%ADn-2ea44f?style=for-the-badge)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berriobenjamin16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-benjamin-berrio-cabello-56a449434/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hub-app.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hub-90zb.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvaroberrio23242-eng)
 
 </div>
@@ -30,9 +32,9 @@ enfocado en Python, desarrollo web, arquitectura de software e IA aplicada.
 <div align="center">
 
 ```
-Web Applications  +  Python & Backend  +  AI & Automation
+Web Applications  +  Python & Backend  +  Databases & APIs
         +
-Product Engineering  +  UX & Interactive Experiences
+Automation  +  UX & Interactive Experiences
 ```
 
 </div>
@@ -92,7 +94,7 @@ para producción (SQLite en desarrollo, PostgreSQL en producción).
 ### 🔎 [OSINT Search Pro](https://github.com/alvaroberrio23242-eng/OSINT_Search_Pro)
 **Web-based OSINT search engine**
 
-Motor de búsqueda OSINT construido con Python y Flask.
+Motor de búsqueda de fuentes abiertas (OSINT) construido con Python y Flask.
 
 `Python` `Flask`
 
@@ -117,10 +119,10 @@ y filtrado de recursos con licencias verificadas.
 ### 🎸 [RockQuest](https://github.com/alvaroberrio23242-eng/rockquest)
 **Interactive music experience**
 
-La evolución del concepto de SalsaQuest hacia una experiencia digital enfocada
-en la cultura rock: `Culture + Music + Exploration + Technology`.
+Aplicación web sobre la historia del rock, en la línea de SalsaQuest:
+`Culture + Music + Exploration + Technology`.
 
-`Python`
+`Python` `Flask` `SQLAlchemy`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=pythonanywhere&logoColor=white)](https://benjaminberrio16.pythonanywhere.com/)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alvaroberrio23242-eng/rockquest)
@@ -148,9 +150,9 @@ cultura antioqueña.
 Mi hub profesional: reúne proyectos de software, experiencias digitales y casos
 de estudio en un solo lugar.
 
-`HTML`
+`HTML` `CSS`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=render&logoColor=white)](https://portfolio-hub-app.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square&logo=render&logoColor=white)](https://portfolio-hub-90zb.onrender.com/)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alvaroberrio23242-eng/portfolio-hub)
 
 ---
@@ -197,8 +199,6 @@ infrastructure · 📊 Data-driven applications
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=alvaroberrio23242-eng&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroberrio23242-eng&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alvaroberrio23242-eng&theme=radical&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 ---
@@ -243,7 +243,7 @@ encontrados · soluciones · pruebas · despliegues · aprendizajes.
 
 **Web Applications** — Flask · databases · authentication · REST APIs · frontend integration
 
-**Artificial Intelligence** — AI-assisted development · intelligent applications · automation · agentic workflows
+**Artificial Intelligence** — AI-assisted development · intelligent applications · automation
 
 **Software Engineering** — Architecture · testing · security · performance · deployment
 
@@ -253,16 +253,17 @@ encontrados · soluciones · pruebas · despliegues · aprendizajes.
 
 ## 🤝 Let's Connect
 
-Estoy interesado en oportunidades relacionadas con:
+Busco una oportunidad como **aprendiz o desarrollador junior**, remota o en Medellín,
+en áreas como:
 
-`Software Development` `Python Development` `Web Applications` `Backend Development`
-`AI Engineering` `Automation` `Remote Software Engineering`
+`Python Development` `Backend Development` `Web Applications` `Automation`
+`Software Development`
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berriobenjamin16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-benjamin-berrio-cabello-56a449434/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hub-app.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hub-90zb.onrender.com/)
 
 **Build useful things. Engineer them well. Keep learning.**
 
