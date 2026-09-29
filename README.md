@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=F7B801&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Python+%26+Web;Building+AI-assisted+applications;Evidence+over+assumptions.;Security+by+design.;Currently+shipping+SalsaQuest+%F0%9F%8E%B5" alt="Typing SVG" />
@@ -15,8 +16,9 @@ enfocado en Python, desarrollo web, arquitectura de software e IA aplicada.
 
 📍 Medellín, Colombia · 🎓 Estudiante de Ingeniería de Sistemas
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaro_berrio23242@elpoli.edu.co)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hub-90zb.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berriobenjamin16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-benjamin-berrio-cabello-56a449434/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hub-app.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvaroberrio23242-eng)
 
 </div>
@@ -102,9 +104,9 @@ Motor de búsqueda OSINT construido con Python y Flask.
 ### 🎓 [EduPack Builder](https://github.com/alvaroberrio23242-eng/EduPack-Builder)
 **Educational resource packaging tool**
 
-Conjunto de herramientas en Python para empaquetar unidades pedagógicas sobre la
-cultura salsera de Medellín (enfocado en Son Havana), con descarga y filtrado de
-recursos multimedia con licencias verificadas.
+Herramienta en Python para generar material pedagógico y reunir recursos
+multimedia libres (Wikimedia Commons, licencias Creative Commons), con descarga
+y filtrado de recursos con licencias verificadas.
 
 `Python`
 
@@ -258,7 +260,8 @@ Estoy interesado en oportunidades relacionadas con:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaro_berrio23242@elpoli.edu.co)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berriobenjamin16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-benjamin-berrio-cabello-56a449434/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hub-app.onrender.com)
 
 **Build useful things. Engineer them well. Keep learning.**
