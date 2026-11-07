@@ -62,32 +62,8 @@ Cada proyecto indica qué hace, qué problema resuelve, cómo lo construí y qu�
 
 ---
 
-### ⭐ ReviewTap — reseñas de negocios con NFC y QR
 
-[![Demo](https://img.shields.io/badge/Demo-en_mantenimiento-f59e0b)](#) [![Código](https://img.shields.io/badge/Código-GitHub-181717?logo=github)](https://github.com/alvaroberrio23242-eng/reviewtap)
 
-- **Qué hace:** el cliente escanea un QR o toca un dispositivo NFC y llega a la página de Google para dejar su opinión. El negocio administra ubicaciones y dispositivos desde un panel.
-- **Problema:** a los clientes satisfechos les cuesta llegar a dejar una reseña.
-- **Cómo lo construí:** Flask con application factory, blueprints y capa de servicios; SQLAlchemy con PostgreSQL en producción y SQLite en pruebas; multi-negocio con roles (admin, dueño, personal). Si alguien pide un recurso que no es suyo, responde 404 en vez de 403 para no revelar que existe.
-- **Mejoras:** panel con diálogos para crear y borrar negocios, ubicaciones y dispositivos, descarga de QR y 162 pruebas automáticas.
-- **Estado:** el demo está en mantenimiento porque venció la base de datos gratuita de Render.
-- **Demuestra:** backend multi-negocio, seguridad de acceso y pruebas automáticas.
-
-`Python` `Flask` `SQLAlchemy` `PostgreSQL` `qrcode` `pytest`
-
----
-
-### 📊 MarketLens AI — análisis de mercados
-
-[![Demo](https://img.shields.io/badge/Demo-PENDIENTE_URL_DEMO-lightgrey)](PENDIENTE_URL_DEMO) [![Código](https://img.shields.io/badge/Código-GitHub-181717?logo=github)](https://github.com/alvaroberrio23242-eng/marketlens-ai)
-
-- **Qué hace:** análisis de riesgo de portafolio, backtesting e IA explicable.
-- **Cómo lo construí:** Python con Flask, pandas, NumPy, Plotly y yfinance. Separa estrictamente los datos sintéticos de los reales para mantener la trazabilidad.
-- **Demuestra:** análisis de datos, APIs externas y rigor en trazabilidad.
-
-`Python` `Flask` `pandas` `NumPy` `Plotly` `yfinance`
-
----
 
 ### 🔎 OSINT Search Pro — búsqueda en fuentes abiertas
 
