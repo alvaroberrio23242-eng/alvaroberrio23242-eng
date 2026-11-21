@@ -1,6 +1,6 @@
 <h1 align="center">Álvaro Benjamín Berrío</h1>
 <p align="center"><b>Desarrollador Python · Aplicaciones web con Flask</b></p>
-<p align="center">Estudiante de Ingeniería de Sistemas en Medellín, Colombia 🇨🇴 · Busco mi primera oportunidad como aprendiz o desarrollador junior (remoto o Medellín)</p>
+<p align="center">Estudiante de Ingeniería de Sistemas en Medellín, Colombia · Busco mi primera oportunidad como aprendiz o desarrollador junior (remoto o Medellín)</p>
 
 <p align="center">
   <a href="mailto:berriobenjamin16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
