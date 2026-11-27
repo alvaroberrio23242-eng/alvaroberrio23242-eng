@@ -8,6 +8,10 @@
   <a href="https://portfolio-hub-90zb.onrender.com/"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio"></a>
 </p>
 
+<!-- DEMOS:AUTO-START -->
+![Demos online](https://img.shields.io/badge/Demos-4%2F4%20online-brightgreen)
+<!-- DEMOS:AUTO-END -->
+
 ## 👋 Sobre mí
 
 Construyo aplicaciones web completas con Python y Flask: base de datos, pruebas, despliegue y documentación. Trabajo proyecto por proyecto y no doy nada por terminado hasta probarlo.
@@ -27,6 +31,19 @@ Construyo aplicaciones web completas con Python y Flask: base de datos, pruebas,
 | **Benja Karaoke** | Karaoke web con letras sincronizadas | Flask, JavaScript | [Abrir](https://alvaroberrio23242-eng.github.io/benja-karaoque/karaoke.html) |
 
 > Los demos están en planes gratuitos: si llevan tiempo sin visitas, la primera carga puede tardar hasta un minuto.
+
+## 🟢 Estado de las demos
+
+<!-- PROJECTS:AUTO-START -->
+| Proyecto | Estado | Descripción | Stack | Demo | Repo |
+| --- | --- | --- | --- | --- | --- |
+| 🔎 **OSINT Search Pro** | ⏸️ Demo en pausa | Plataforma B2B de ciberinteligencia: búsqueda centralizada de personas, dominios, IPs e información pública. | Python · Flask | — | [Código ↗](https://github.com/alvaroberrio23242-eng/OSINT_Search_Pro) |
+| 🎵 **SalsaQuest** | 🟢 Online | Museo interactivo de la cultura salsera: storytelling, línea del tiempo, trivia gamificada y multimedia. | Python · Flask · SQLAlchemy | [Ver ↗](https://salsaquest-1.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/salsaquest) |
+| 📚 **EduPack Builder** | ⏸️ Demo en pausa | Agente autónomo con IA que arma paquetes educativos (guías, quizzes, multimedia) en segundos. | Python · Flask | — | [Código ↗](https://github.com/alvaroberrio23242-eng/EduPack-Builder) |
+| 🎸 **RockQuest** | 🟢 Online | Enciclopedia interactiva de la historia del rock: décadas, bandas, artistas y trivia. | Python · Flask · SQLAlchemy | [Ver ↗](https://rockquest.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/rockquest) |
+| 🏟️ **Aventura Antioqueña** | 🟢 Online | Juego educativo de trivia sobre Antioquia, compilado de Python/Pygame a WebAssembly. | Python · Pygame | [Ver ↗](https://alvaroberrio23242-eng.github.io/aventura-antioquena-web/) | [Código ↗](https://github.com/alvaroberrio23242-eng/aventura-antioquena-web) |
+| 🌐 **Portfolio Hub** | 🟢 Online | Archivo vivo de proyectos con demos embebidas y documentación. | HTML · CSS · JS | [Ver ↗](https://alvaroberrio23242-eng.github.io/portfolio-hub/) | [Código ↗](https://github.com/alvaroberrio23242-eng/portfolio-hub) |
+<!-- PROJECTS:AUTO-END -->
 
 ## 🚀 Proyectos destacados
 

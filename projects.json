@@ -1,0 +1,66 @@
+{
+  "projects": [
+    {
+      "id": "osint",
+      "name": "OSINT Search Pro",
+      "emoji": "\ud83d\udd0e",
+      "description": "Plataforma B2B de ciberinteligencia: b\u00fasqueda centralizada de personas, dominios, IPs e informaci\u00f3n p\u00fablica.",
+      "stack": ["Python", "Flask"],
+      "demo_url": "https://osintsearchpro-production.up.railway.app/",
+      "repo_url": "https://github.com/alvaroberrio23242-eng/OSINT_Search_Pro",
+      "wip": false,
+      "status": "pausada"
+    },
+    {
+      "id": "salsaquest",
+      "name": "SalsaQuest",
+      "emoji": "\ud83c\udfb5",
+      "description": "Museo interactivo de la cultura salsera: storytelling, l\u00ednea del tiempo, trivia gamificada y multimedia.",
+      "stack": ["Python", "Flask", "SQLAlchemy"],
+      "demo_url": "https://salsaquest-1.onrender.com/",
+      "repo_url": "https://github.com/alvaroberrio23242-eng/salsaquest",
+      "wip": false
+    },
+    {
+      "id": "edupack",
+      "name": "EduPack Builder",
+      "emoji": "\ud83d\udcda",
+      "description": "Agente aut\u00f3nomo con IA que arma paquetes educativos (gu\u00edas, quizzes, multimedia) en segundos.",
+      "stack": ["Python", "Flask"],
+      "demo_url": "https://web-production-0f3c8.up.railway.app/",
+      "repo_url": "https://github.com/alvaroberrio23242-eng/EduPack-Builder",
+      "wip": false,
+      "status": "pausada"
+    },
+    {
+      "id": "rockquest",
+      "name": "RockQuest",
+      "emoji": "\ud83c\udfb8",
+      "description": "Enciclopedia interactiva de la historia del rock: d\u00e9cadas, bandas, artistas y trivia.",
+      "stack": ["Python", "Flask", "SQLAlchemy"],
+      "demo_url": "https://rockquest.onrender.com/",
+      "repo_url": "https://github.com/alvaroberrio23242-eng/rockquest",
+      "wip": false
+    },
+    {
+      "id": "aventura",
+      "name": "Aventura Antioque\u00f1a",
+      "emoji": "\ud83c\udfdf\ufe0f",
+      "description": "Juego educativo de trivia sobre Antioquia, compilado de Python/Pygame a WebAssembly.",
+      "stack": ["Python", "Pygame"],
+      "demo_url": "https://alvaroberrio23242-eng.github.io/aventura-antioquena-web/",
+      "repo_url": "https://github.com/alvaroberrio23242-eng/aventura-antioquena-web",
+      "wip": false
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio Hub",
+      "emoji": "\ud83c\udf10",
+      "description": "Archivo vivo de proyectos con demos embebidas y documentaci\u00f3n.",
+      "stack": ["HTML", "CSS", "JS"],
+      "demo_url": "https://alvaroberrio23242-eng.github.io/portfolio-hub/",
+      "repo_url": "https://github.com/alvaroberrio23242-eng/portfolio-hub",
+      "wip": false
+    }
+  ]
+}
