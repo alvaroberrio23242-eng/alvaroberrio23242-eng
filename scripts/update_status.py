@@ -89,17 +89,14 @@ def badge_global(resultados):
 
 def tabla(resultados):
     lineas = [
-        "| Proyecto | Estado | Descripci\u00f3n | Stack | Demo | Repo |",
-        "| --- | --- | --- | --- | --- | --- |",
+        "| Proyecto | Estado | Demo | Repo |",
+        "| --- | --- | --- | --- |",
     ]
     for p, estado in resultados:
         nombre = f"{p.get('emoji', '')} **{p['name']}**".strip()
-        stack = " \u00b7 ".join(p.get("stack", []))
         demo = f"[Ver \u2197]({p['demo_url']})" if p.get("demo_url") and estado != "pausada" else "\u2014"
-        repo = f"[C\u00f3digo \u2197]({p['repo_url']})"
-        lineas.append(
-            f"| {nombre} | {ESTADOS[estado]} | {p['description']} | {stack} | {demo} | {repo} |"
-        )
+        repo = f"[C\u00f3digo \u2197]({p['repo_url']})" if p.get("repo_url") else "\U0001F512 Privado"
+        lineas.append(f"| {nombre} | {ESTADOS[estado]} | {demo} | {repo} |")
     return "\n".join(lineas)
 
 

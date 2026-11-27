@@ -6,10 +6,9 @@
       "emoji": "\ud83d\udd0e",
       "description": "Plataforma B2B de ciberinteligencia: b\u00fasqueda centralizada de personas, dominios, IPs e informaci\u00f3n p\u00fablica.",
       "stack": ["Python", "Flask"],
-      "demo_url": "https://osintsearchpro-production.up.railway.app/",
+      "demo_url": "https://osint-search-pro.onrender.com/",
       "repo_url": "https://github.com/alvaroberrio23242-eng/OSINT_Search_Pro",
-      "wip": false,
-      "status": "pausada"
+      "wip": false
     },
     {
       "id": "salsaquest",
@@ -27,10 +26,9 @@
       "emoji": "\ud83d\udcda",
       "description": "Agente aut\u00f3nomo con IA que arma paquetes educativos (gu\u00edas, quizzes, multimedia) en segundos.",
       "stack": ["Python", "Flask"],
-      "demo_url": "https://web-production-0f3c8.up.railway.app/",
+      "demo_url": "https://edupack-builder.onrender.com/",
       "repo_url": "https://github.com/alvaroberrio23242-eng/EduPack-Builder",
-      "wip": false,
-      "status": "pausada"
+      "wip": false
     },
     {
       "id": "rockquest",
@@ -61,6 +59,43 @@
       "demo_url": "https://alvaroberrio23242-eng.github.io/portfolio-hub/",
       "repo_url": "https://github.com/alvaroberrio23242-eng/portfolio-hub",
       "wip": false
+    },
+    {
+      "id": "codeaudit",
+      "name": "CodeAudit",
+      "emoji": "\ud83d\udee1\ufe0f",
+      "description": "Auditor est\u00e1tico de repos Python/Flask: recibe la URL de un repo p\u00fablico de GitHub y genera un reporte de seguridad y calidad (secretos, SQL por concatenaci\u00f3n, SSRF, path traversal, endpoints hu\u00e9rfanos y m\u00e1s).",
+      "stack": ["Python", "Flask", "AST", "API de GitHub"],
+      "demo_url": "https://codeaudit-zxc5.onrender.com/",
+      "wip": false
+    },
+    {
+      "id": "lapvideo",
+      "name": "LAP Video",
+      "emoji": "\ud83c\udfac",
+      "description": "Editor y compresor de video web: l\u00ednea de tiempo de varias pistas, vista previa en vivo, recorte, velocidad, ajustes de color y exportaci\u00f3n comprimida a un tama\u00f1o objetivo en MB.",
+      "stack": ["Python", "Flask", "FFmpeg", "JavaScript", "pytest"],
+      "demo_url": "https://lap-video.onrender.com/",
+      "wip": false
+    },
+    {
+      "id": "karaoke",
+      "name": "Benja Karaoke",
+      "emoji": "\ud83c\udfa4",
+      "description": "Karaoke web: reproduce audio local con letras sincronizadas por marcas de tiempo, modo escenario, volumen y atajos de teclado.",
+      "stack": ["JavaScript", "Flask"],
+      "demo_url": "https://alvaroberrio23242-eng.github.io/benja-karaoque/karaoke.html",
+      "repo_url": "https://github.com/alvaroberrio23242-eng/benja-karaoque",
+      "wip": true
+    },
+    {
+      "id": "budget",
+      "name": "Berr\u00edo Budget",
+      "emoji": "\ud83d\udcb0",
+      "description": "Presupuestos en pesos colombianos: organiza productos, servicios y conceptos, registra cantidades y precios unitarios, y calcula subtotales y el total en COP (hasta 100 conceptos).",
+      "stack": ["Python", "Flask"],
+      "demo_url": "https://berrio-budget.vercel.app/",
+      "wip": true
     }
   ]
 }

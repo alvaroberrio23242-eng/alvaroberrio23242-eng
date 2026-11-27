@@ -9,7 +9,7 @@
 </p>
 
 <!-- DEMOS:AUTO-START -->
-![Demos online](https://img.shields.io/badge/Demos-4%2F4%20online-brightgreen)
+![Demos online](https://img.shields.io/badge/Demos-8%2F8%20online-brightgreen)
 <!-- DEMOS:AUTO-END -->
 
 ## 👋 Sobre mí
@@ -35,14 +35,18 @@ Construyo aplicaciones web completas con Python y Flask: base de datos, pruebas,
 ## 🟢 Estado de las demos
 
 <!-- PROJECTS:AUTO-START -->
-| Proyecto | Estado | Descripción | Stack | Demo | Repo |
-| --- | --- | --- | --- | --- | --- |
-| 🔎 **OSINT Search Pro** | ⏸️ Demo en pausa | Plataforma B2B de ciberinteligencia: búsqueda centralizada de personas, dominios, IPs e información pública. | Python · Flask | — | [Código ↗](https://github.com/alvaroberrio23242-eng/OSINT_Search_Pro) |
-| 🎵 **SalsaQuest** | 🟢 Online | Museo interactivo de la cultura salsera: storytelling, línea del tiempo, trivia gamificada y multimedia. | Python · Flask · SQLAlchemy | [Ver ↗](https://salsaquest-1.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/salsaquest) |
-| 📚 **EduPack Builder** | ⏸️ Demo en pausa | Agente autónomo con IA que arma paquetes educativos (guías, quizzes, multimedia) en segundos. | Python · Flask | — | [Código ↗](https://github.com/alvaroberrio23242-eng/EduPack-Builder) |
-| 🎸 **RockQuest** | 🟢 Online | Enciclopedia interactiva de la historia del rock: décadas, bandas, artistas y trivia. | Python · Flask · SQLAlchemy | [Ver ↗](https://rockquest.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/rockquest) |
-| 🏟️ **Aventura Antioqueña** | 🟢 Online | Juego educativo de trivia sobre Antioquia, compilado de Python/Pygame a WebAssembly. | Python · Pygame | [Ver ↗](https://alvaroberrio23242-eng.github.io/aventura-antioquena-web/) | [Código ↗](https://github.com/alvaroberrio23242-eng/aventura-antioquena-web) |
-| 🌐 **Portfolio Hub** | 🟢 Online | Archivo vivo de proyectos con demos embebidas y documentación. | HTML · CSS · JS | [Ver ↗](https://alvaroberrio23242-eng.github.io/portfolio-hub/) | [Código ↗](https://github.com/alvaroberrio23242-eng/portfolio-hub) |
+| Proyecto | Estado | Demo | Repo |
+| --- | --- | --- | --- |
+| 🔎 **OSINT Search Pro** | 🟡 Online (despertando) | [Ver ↗](https://osint-search-pro.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/OSINT_Search_Pro) |
+| 🎵 **SalsaQuest** | 🟡 Online (despertando) | [Ver ↗](https://salsaquest-1.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/salsaquest) |
+| 📚 **EduPack Builder** | 🟡 Online (despertando) | [Ver ↗](https://edupack-builder.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/EduPack-Builder) |
+| 🎸 **RockQuest** | 🟡 Online (despertando) | [Ver ↗](https://rockquest.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/rockquest) |
+| 🏟️ **Aventura Antioqueña** | 🟢 Online | [Ver ↗](https://alvaroberrio23242-eng.github.io/aventura-antioquena-web/) | [Código ↗](https://github.com/alvaroberrio23242-eng/aventura-antioquena-web) |
+| 🌐 **Portfolio Hub** | 🟢 Online | [Ver ↗](https://alvaroberrio23242-eng.github.io/portfolio-hub/) | [Código ↗](https://github.com/alvaroberrio23242-eng/portfolio-hub) |
+| 🛡️ **CodeAudit** | 🟡 Online (despertando) | [Ver ↗](https://codeaudit-zxc5.onrender.com/) | 🔒 Privado |
+| 🎬 **LAP Video** | 🟡 Online (despertando) | [Ver ↗](https://lap-video.onrender.com/) | 🔒 Privado |
+| 🎤 **Benja Karaoke** | 🚧 En desarrollo | [Ver ↗](https://alvaroberrio23242-eng.github.io/benja-karaoque/karaoke.html) | [Código ↗](https://github.com/alvaroberrio23242-eng/benja-karaoque) |
+| 💰 **Berrío Budget** | 🚧 En desarrollo | [Ver ↗](https://berrio-budget.vercel.app/) | 🔒 Privado |
 <!-- PROJECTS:AUTO-END -->
 
 ## 🚀 Proyectos destacados
