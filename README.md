@@ -37,14 +37,14 @@ Construyo aplicaciones web completas con Python y Flask: base de datos, pruebas,
 <!-- PROJECTS:AUTO-START -->
 | Proyecto | Estado | Demo | Repo |
 | --- | --- | --- | --- |
-| 🔎 **OSINT Search Pro** | 🟢 Online | [Ver ↗](https://osint-search-pro.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/OSINT_Search_Pro) |
-| 🎵 **SalsaQuest** | 🟢 Online | [Ver ↗](https://salsaquest-1.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/salsaquest) |
-| 📚 **EduPack Builder** | 🟢 Online | [Ver ↗](https://edupack-builder.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/EduPack-Builder) |
-| 🎸 **RockQuest** | 🟢 Online | [Ver ↗](https://rockquest.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/rockquest) |
+| 🔎 **OSINT Search Pro** | 🟡 Online (despertando) | [Ver ↗](https://osint-search-pro.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/OSINT_Search_Pro) |
+| 🎵 **SalsaQuest** | 🟡 Online (despertando) | [Ver ↗](https://salsaquest-1.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/salsaquest) |
+| 📚 **EduPack Builder** | 🟡 Online (despertando) | [Ver ↗](https://edupack-builder.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/EduPack-Builder) |
+| 🎸 **RockQuest** | 🟡 Online (despertando) | [Ver ↗](https://rockquest.onrender.com/) | [Código ↗](https://github.com/alvaroberrio23242-eng/rockquest) |
 | 🏟️ **Aventura Antioqueña** | 🟢 Online | [Ver ↗](https://alvaroberrio23242-eng.github.io/aventura-antioquena-web/) | [Código ↗](https://github.com/alvaroberrio23242-eng/aventura-antioquena-web) |
 | 🌐 **Portfolio Hub** | 🟢 Online | [Ver ↗](https://alvaroberrio23242-eng.github.io/portfolio-hub/) | [Código ↗](https://github.com/alvaroberrio23242-eng/portfolio-hub) |
-| 🛡️ **CodeAudit** | 🟢 Online | [Ver ↗](https://codeaudit-zxc5.onrender.com/) | 🔒 Privado |
-| 🎬 **LAP Video** | 🟢 Online | [Ver ↗](https://lap-video.onrender.com/) | 🔒 Privado |
+| 🛡️ **CodeAudit** | 🟡 Online (despertando) | [Ver ↗](https://codeaudit-zxc5.onrender.com/) | 🔒 Privado |
+| 🎬 **LAP Video** | 🟡 Online (despertando) | [Ver ↗](https://lap-video.onrender.com/) | 🔒 Privado |
 | 🎤 **Benja Karaoke** | 🚧 En desarrollo | [Ver ↗](https://alvaroberrio23242-eng.github.io/benja-karaoque/karaoke.html) | [Código ↗](https://github.com/alvaroberrio23242-eng/benja-karaoque) |
 | 💰 **Berrío Budget** | 🚧 En desarrollo | [Ver ↗](https://berrio-budget.vercel.app/) | 🔒 Privado |
 <!-- PROJECTS:AUTO-END -->
